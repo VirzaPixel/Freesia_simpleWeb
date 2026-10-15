@@ -1,0 +1,3 @@
+# I think 200+ mb file (the model) wasn't good idea to push to github
+.onnx
+best.onnx
